@@ -1,0 +1,6 @@
+[
+  { "name": "Invoice", "id": "invoice" },
+  { "name": "Plan", "id": "plan" },
+  { "name": "Status", "id": "status" },
+  { "name": "Amount", "id": "amount" }
+]
